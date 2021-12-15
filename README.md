@@ -1,2 +1,2 @@
-# Op-rations_Math-matique
+# Operations_Mathematique
 Un menu des opérations mathématique.
