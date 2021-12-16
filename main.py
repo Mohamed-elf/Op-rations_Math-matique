@@ -12,7 +12,7 @@ def equaDegr1(a, b, c):
     x = (c-b)/a
     return x
 while True:
-    print(" Made by Mohamed elfarfachi.\n")
+    print(" Made by Mohamed El-Farfachi.\n")
     Menu = {
         "-|Addition (+)                        ": 1,
         "-|multiplication (x)                  ": 2,
